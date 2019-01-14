@@ -1,2 +1,2 @@
-# hello-world
-鳕鱼的github博客搭建记录
+#hello-world
+鳕鱼的GitHub博客搭建日志
